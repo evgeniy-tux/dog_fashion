@@ -1,0 +1,35 @@
+.navbar{
+    background-color: #535764
+}
+
+h2{
+    text-align: center;
+}
+
+.smaller-image {
+    width: 200px
+};
+
+.logo {
+    width: 18px;
+    height: 60px;
+}
+
+.footer {  
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 60px;
+  background-color: #535764;
+}
+
+.footer p {
+    text-align: center;
+    margin: 20px;
+    color: #727582;
+}
+
+.fat-footer li {
+    list-style-type: none; /* Убираем маркеры */
+    display: inline;
+   }
